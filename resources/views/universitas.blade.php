@@ -7,9 +7,7 @@
                 <div class="card shadow m-auto">
                     <div class="card-body">
                         <h5 class="card-title">State University of Semarang</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                            card's
-                            content.</p>
+                        <p class="card-text">Committed to academic excellence and fervent about conservation, Let's connect and achieve great things together!</p>
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">

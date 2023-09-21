@@ -4,8 +4,7 @@
     <div class="card shadow w-50 m-auto">
         <div class="card-body">
             <h5 class="card-title">My Profile</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-                content.</p>
+            <p class="card-text">An inquisitive mind and an adventurous spirit drive me forward. Dive into my story below for a closer look.</p>
         </div>
         <ul class="list-group list-group-flush">
             <li class="list-group-item">
